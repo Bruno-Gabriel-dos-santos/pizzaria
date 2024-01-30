@@ -1,0 +1,38 @@
+.catalogo1{
+    transition: opacity 0.7s ease, height 0.7s ease;
+    position: fixed;
+    bottom: 110px;
+    right:15px;
+    height: 540px;
+    width: 440px;
+    background-color: rgba(0,0,0,.5); 
+    color: #fff;
+    text-align: center; z-index: 998;min-width:300px;border-radius:15px; overflow-y: scroll;display:none;
+}
+
+
+.catalogo2{
+height:2px;background-color:white;
+}
+
+
+.catalogo3{
+position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: black; 
+    color: #fff; 
+    padding: 10px;
+    text-align: center; z-index: 997;min-width:500px;
+}
+
+
+.catalogo4{
+background-color:#dddddd;border-radius:5px;cursor:pointer;color:black;
+}
+
+
+.catalogo5{
+background-color:#45a049;border-radius:5px;cursor:pointer;
+}
+
