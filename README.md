@@ -1,3 +1,52 @@
+
+    Site pizzaria desenvolvido em php/laravel/blade utilizando bootstrap 4/5, o site contem pagina ADM funcional e estilizada 
+    para adicionar, pesquisar, modificar e excluir cadastros das tabelas produtos, estoque,fornecedores, funcionarios que serão
+    utilizados para gerenciar o balanço do negocio. o site conta com um sistema de geração de cards dinamico que permite que sejam
+    cadastrados diversos produtos com facil gerenciamento por sua divisão em categorias. conta ainda com um sistema de carrinho e 
+    check-in de pagamento estilizados e personalizados, sistema de historico, monitoramento de pedidos e area do usuario para 
+    eventual mudança de endereço ou dados cadastrais onde tanto o sistema de historico, o sistema de monitoramento de pedidos e a area do 
+    usuario são feitas de forma estilizada e pesonalizada. O site conta com um sistema de cadastramento de itens por cards dinamicos que 
+    alem de bonitos e estilizados fornecem a possibilidade de cadastrar novos produtos ou modificalos com extrema facilidade e praticidade.
+    
+    Os sistemas do site são feitos em php/laravel e os bancos de dados foram modelados para permitirem acoplamento de sistemas de pagamento e 
+    gerenciamento financeiro, os bancos de dados estão estruturados em migrations e podem ser criados pelo comando : php artisan migrate.
+
+    O site tem um sistema de login para usuarios e para adm separados o que confere maior segurança sendo que para cadastrar o usuario adm é 
+    necessario ativar a função de criação manualmente removendo a determinada função que esta comentada no controller adm-login
+
+    O site foi feito com muito carinho, foram feitos testes unitarios em todo o sistema e diversas verificações de acessos e migrations,
+    planejamento para o banco de dados e possiveis adições de funcionalidades
+ 
+    Site desenvolvido por Bruno Gabriel dos Santos em 01/2o24, sou um desenvolvedor web e stand-alone trabalho desenvolvendo 
+	sites e sistemas tanto para meios online quanto sistemas ofline, banco de dados e manutenção e atualização de sistemas   
+	entre em contato mandando um email para brunogbruoute@gmail.com                                                          
+	conecte com o perfil do linkedin https://www.linkedin.com/in/bruno-gabriel-dos-santos/                                   
+	acesse outros projetos em meu github https://github.com/bruno-gabriel-dos-santos                                         
+	                                                                                                                         
+	o site foi desenvolvido em php/laravel com auxilio de framework bootstrap4/5, parte do desenvolvimento front-end foi     
+	feito com o consumo de layot open-source disponibilizado por colorlib : https://colorlib.com/wp/                         
+                                                                                                                             
+	o site é open-source e tem licensa mit o que lhe permite modificar e usar para fins comercias caso tenha interesse       
+                                                                                                                             
+	licença mit                                                                                                              
+                                                                                                                             
+	copyright (c) [2024] [bruno gabriel dos santos]                                                                          
+                                                                                                                             
+	a permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e dos                     
+	arquivos de documentação associados (o "software"), para tratar o software sem restrição, incluindo,                     
+	sem limitação, os direitos de usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar                       
+	e/ou vender cópias do software, sujeitos às seguintes condições:                                                         
+                                                                                                                             
+	o aviso de copyright acima e este aviso de permissão devem ser incluídos em todas as cópias ou partes                    
+	 substanciais do software.                                                                                               
+                                                                                                                             
+	o software é fornecido "como está", sem garantia de qualquer tipo, expressa ou implícita, incluindo,                     
+	mas não se limitando às garantias de comercialização, adequação a um propósito específico e não infração.                
+	em nenhum caso os detentores dos direitos autorais serão responsáveis por qualquer reclamação, danos ou                  
+	outra responsabilidade, seja em ação de contrato, delito ou de outra forma, decorrente de, ou em conexão                 
+	com o software ou o uso ou outras negociações no software.                                                               
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
