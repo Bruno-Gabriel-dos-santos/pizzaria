@@ -189,7 +189,7 @@
                              @foreach($item_todos_pedidos as $itemPedido)
                               @php
                                 $id_produto=$itemPedido[1];
-                                echo $id_produto;
+                                
                                 $id_produto=$id_produto-1;
                                 
                                 if(isset($produtos[$id_produto])) {
