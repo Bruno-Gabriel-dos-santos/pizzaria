@@ -99,7 +99,7 @@
             	<span class="subheading">Crunchy</span>
               <h1 class="mb-4">Italian Pizza</h1>
               <p class="mb-4 mb-md-5">Uma pizza de massa fina e crocante para voce se deliciar hoje.</p>
-              <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Comprar</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Catalogo</a></p>
+              <p><a href="catalogo" class="btn btn-primary p-3 px-xl-4 py-xl-3">Comprar</a> <a href="catalogo" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Catalogo</a></p>
             </div>
             <div class="col-md-6 ftco-animate">
             	<img src="images/bg_2.png" class="img-fluid" alt="">
@@ -118,7 +118,7 @@
             	<span class="subheading">Bem vindo a pizza-pizza</span>
               <h1 class="mb-4">Onde é feita a pizza dos seus sonhos</h1>
               <p class="mb-4 mb-md-5">Uma mistura de tradição e igredientes selecionados que lhe produz a melhor pizza que o ser humano ja conheceu.</p>
-              <p><a href="#" class="btn btn-primary p-3 px-xl-4 py-xl-3">Comprar</a> <a href="#" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Catalogo</a></p>
+              <p><a href="catalogo" class="btn btn-primary p-3 px-xl-4 py-xl-3">Comprar</a> <a href="catalogo" class="btn btn-white btn-outline-white p-3 px-xl-4 py-xl-3">Catalogo</a></p>
             </div>
 
           </div>
